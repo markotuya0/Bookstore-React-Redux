@@ -7,6 +7,7 @@
 - Add a book.
 - Remove a selected book.
 .
+and so on.
 
 ## Authors
 
