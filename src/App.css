@@ -35,6 +35,7 @@ main {
   border-radius: 30%;
   background-color: #0290ff;
 }
+
 .status-container {
   display: flex;
 }
@@ -83,6 +84,7 @@ main {
   font-weight: 300;
   color: #121212;
 }
+
 .topic {
   width: 4.688rem;
   height: 1.313rem;
@@ -201,4 +203,3 @@ input {
 .font2 {
   font-family: RobotoSlab, sans-serif;
 }
-
