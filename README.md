@@ -1,7 +1,7 @@
 
 # Bookstore
 
->The Bookstore is a website similar to the "Awesome Books" website built in the previous module. You will create an MVP version of it that allows you to:
+>In this project, we used React and Redux to build a simple application. The project was a real-world project for a fictional company that required our help. The project got split into multiple milestones, and each had functional and technical requirements that all got implemented.:
 
 - Display a list of books.
 - Add a book.
