@@ -8,6 +8,12 @@
 - Remove a selected book.
 .
 and so on.
+
+Built With
+ HTML, CSS and JavaScript
+ Linters: Lighthouse, Webhint, Stylelint and ESLint
+ VS Code
+ 
 #livelink
 https://mark-react-bookstore.netlify.app/
 ## Authors
